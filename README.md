@@ -1,0 +1,1 @@
+# mvn-multiple-module
